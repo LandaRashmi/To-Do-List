@@ -28,12 +28,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/todo-list-app.git
+    git clone https://github.com/LandaRashmi/To-Do-List.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd todo-list-app
+    cd To-Do-List
     ```
 
 3. Open the `index.html` file in your web browser to view the app:
@@ -64,6 +64,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Your Name - [@LandaRashmi](https://www.linkedin.com/in/rashmi-landa-294796255/) - rashmilanda@gmail.com
 
-Project Link: [https://github.com/LandaRashmi/To-Do-List](https://github.com/LandaRashmi/To-Do-List)
+Project Link: [https://github.com/LandaRashmi/To-Do-List](https://landarashmi.github.io/To-Do-List/)
 
 
