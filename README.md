@@ -13,7 +13,7 @@ A dynamic, light-colored To-Do List application with additional features and bac
 
 ## Preview
 
-![To-Do List App Screenshot](screenshot.png)
+![To-Do List App Screenshot](Screenshot.png)
 
 ## Getting Started
 
@@ -62,8 +62,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+Your Name - [@LandaRashmi](https://www.linkedin.com/in/rashmi-landa-294796255/) - rashmilanda@gmail.com
 
-Project Link: [https://github.com/yourusername/todo-list-app](https://github.com/yourusername/todo-list-app)
+Project Link: [https://github.com/LandaRashmi/To-Do-List](https://github.com/LandaRashmi/To-Do-List)
 
 
